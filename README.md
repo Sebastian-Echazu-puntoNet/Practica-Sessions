@@ -1,4 +1,4 @@
-# Practica de Sesions con .NET y C#
+# Practica de Sessions con .NET y C#
 
 Practica de session resuelta utilizando .NET y C#.
 
